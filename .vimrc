@@ -214,7 +214,7 @@ set rtp+=~/.vim/bundle/vundle/
 call vundle#rc()
 Bundle 'snipMate'
 Bundle 'gmarik/vundle'
-
+Bundle 'jiangmiao/auto-pairs'
 " 设置通用缩进策略
 set shiftwidth=4
 set tabstop=4
